@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Practise Test 2</title>
+
+  <! --Author: Sujan khatri -->
+  <! --Website Name: Practise Test 2-->
+  <! --Last Updated: 11/06/2024 -->
+
+</head>
+<body>
+
+<header>
+	<h1> Navigation Bar</h1>
+</header>
+
+<main>
+	<section>
+		<form>
+
+		<div>
+			<label for="fname">Enter your first name:</label>
+			<input type="text" name="fname">
+		</div>
+		<div>
+			<label for="lname">Enter your last name:</label>
+			<input type="text" name="lname">
+		</div>
+
+  			<input type="submit" value="Click here to Submit">
+		</form>
+
+</main>
+
+<footer>
+	<p>&#169 2024 COM109. All rights reserved.</p>	
+</footer>
+
+</body>
+</html>
